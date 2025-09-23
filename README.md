@@ -7,10 +7,10 @@ Welcome to my personal portfolio! This website highlights my **projects, technic
 ## 🚀 Projects
 Here are some of my key projects:
 
-- **[Expense Management System](https://github.com/Antheron23/expense-management-system)** – Full-stack web app to track and manage expenses with real-time dashboard insights.  
-- **[Flipkart Clone](https://github.com/Antheron23/flipkart-clone)** – Full-featured e-commerce platform replicating Flipkart, with user authentication, cart management, and simulated payment.  
-- **[Invoice Processing System](https://github.com/Antheron23/invoice-processing-system)** – Backend-focused system for automated invoice management using Spring Boot, Hibernate, and MySQL.  
+- **[Expense Management System](https://github.com/Antheron23/expense-management-system)** – Full-stack web app to track and manage expenses with real-time dashboard insights.     
 - **[GenAI Knowledge Chatbot](https://github.com/Antheron23/genai-chatbot)** – Offline GenAI chatbot for PDF-based Q&A using HuggingFace embeddings, FAISS, DialoGPT, and Streamlit.
+- - **[Invoice Processing System](https://github.com/Antheron23/invoice-processing-system)** – Backend-focused system for automated invoice management using Spring Boot, Hibernate, and MySQL.
+- - **[Flipkart Clone](https://github.com/Antheron23/flipkart-clone)** – Full-featured e-commerce platform replicating Flipkart, with user authentication, cart management, and simulated payment. 
 
 ---
 
@@ -23,10 +23,6 @@ Here are some of my key projects:
 
 ---
 
-## 📷 Screenshots / Demo
-*(Add screenshots of your portfolio homepage and projects here)*  
-
----
 
 ## 📫 Contact
 - Email: ankitsenapati155@gmail.com  
