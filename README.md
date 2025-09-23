@@ -1,12 +1,41 @@
-# React + Vite
+# 💼 Ankit Anurag Senapati – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website highlights my **projects, technical skills, and professional experience**, giving a snapshot of my work as a developer and aspiring technology professional.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Projects
+Here are some of my key projects:
 
-## Expanding the ESLint configuration
+- **[Expense Management System](https://github.com/Antheron23/expense-management-system)** – Full-stack web app to track and manage expenses with real-time dashboard insights.  
+- **[Flipkart Clone](https://github.com/Antheron23/flipkart-clone)** – Full-featured e-commerce platform replicating Flipkart, with user authentication, cart management, and simulated payment.  
+- **[Invoice Processing System](https://github.com/Antheron23/invoice-processing-system)** – Backend-focused system for automated invoice management using Spring Boot, Hibernate, and MySQL.  
+- **[GenAI Knowledge Chatbot](https://github.com/Antheron23/genai-chatbot)** – Offline GenAI chatbot for PDF-based Q&A using HuggingFace embeddings, FAISS, DialoGPT, and Streamlit.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS, Bootstrap, Material-UI  
+- **Backend:** Node.js, Express.js, Spring Boot  
+- **Database:** MongoDB, MySQL  
+- **Languages:** C++, Python, Java, JavaScript  
+- **Tools:** GitHub, VSCode, IntelliJ IDEA, Postman  
+
+---
+
+## 📷 Screenshots / Demo
+*(Add screenshots of your portfolio homepage and projects here)*  
+
+---
+
+## 📫 Contact
+- Email: ankitsenapati155@gmail.com  
+- LinkedIn: [Ankit Anurag Senapati](https://www.linkedin.com/in/ankit-anurag-senapati/)  
+- GitHub: [Antheron23](https://github.com/Antheron23)  
+
+---
+
+## 🌟 Highlights
+- Fully responsive and visually appealing portfolio site  
+- Showcases technical skills, projects, and achievements  
+- Designed for recruiters and collaborators to quickly understand my work
